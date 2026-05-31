@@ -15,7 +15,7 @@
 
 ## 🧑💼 About Me
 
-> **Accomplished Solution Architect and Tech Lead** with **8+ years** of experience delivering enterprise-scale solutions across global and local markets **.
+> **Accomplished IT Solution Architect and Tech Lead** with **8+ years** of experience delivering enterprise-scale solutions across global and local markets **.
 
 - 🏢 Currently **IT Software Architect & Technical Lead** at **CitiusTech Healthcare Pvt. Ltd.**, Pune, India
 - 👨💻 Leading and mentoring a team of **20+ engineers**
