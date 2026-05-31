@@ -4,7 +4,7 @@
 
 ### IT Solution Architect & Tech Lead | 8+ Years in Enterprise Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Solution+Architect+%7C+Tech+Lead;.NET+Core+%7C+Angular+%7C+Python;+%7C+PHP+%7C+AI%2FML;Building+Enterprise+Solutions+Since+2017)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Solution+Architect+%7C+Tech+Lead;+%7C+Angular+%7C+Python;+%7C+PHP+%7C+AI%2FML;Building+Enterprise+Solutions+Since+2017)](https://git.io/typing-svg)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techrushi/)
