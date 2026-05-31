@@ -84,7 +84,7 @@
 ✔ Full SDLC Management (Agile & Waterfall)
 ✔ Team Leadership & Mentorship (35+ engineers)
 ✔ Enterprise Integrations & R&D
-✔ AI/ML Implementation (YOLO, LLMs, LangChain)
+✔ AI/ML Implementation (LLMs, LangChain)
 ✔ ERP Customization (ERPNext / Frappe)
 ✔ Cloud Services (AWS S3, Rekognition)
 ✔ Hardware Integration (Biometrics, IoT devices)
