@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hrushichorage/hrushichorage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hrushikesh Chorage 👋
 
-Here are some ideas to get you started:
+### IT Solution Architect & Tech Lead | 8+ Years in Enterprise Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techrushi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hrushi.Chorage@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrushichorage)
+
+</div>
+
+---
+
+## 🧑💼 About Me
+
+> **Accomplished Solution Architect and Tech Lead** with **8+ years** of experience delivering enterprise-scale solutions across global and local markets **.
+
+- 🏢 Currently **IT Software Architect & Technical Lead** at **CitiusTech Healthcare Pvt. Ltd.**, Pune, India
+- 👨💻 Leading and mentoring a team of **20+ engineers**
+- 🤖 Driving **AI/ML initiatives** — YOLO-based detection, LLM integration, AI call assistants
+- 🏭 Domain expertise: **Telecom · Leasing & Finance · ERP · Retail · E-Commerce**
+- 🎓 **Microsoft Applied Skills** | Big Data Foundations | Hadoop Foundations
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WCF](https://img.shields.io/badge/WCF%2FSOAP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Cloud & AI/ML
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asad4230&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad4230&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asad4230&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+```text
+✔ Solution Architecture & Digital Transformation
+✔ Full SDLC Management (Agile & Waterfall)
+✔ Team Leadership & Mentorship (35+ engineers)
+✔ Enterprise Integrations & R&D
+✔ AI/ML Implementation (YOLO, LLMs, LangChain)
+✔ ERP Customization (ERPNext / Frappe)
+✔ Cloud Services (AWS S3, Rekognition)
+✔ Hardware Integration (Biometrics, IoT devices)
+```
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [Hrushi.Chorage@gmail.com](mailto:Hrushi.Chorage@gmail.com) |
+| 💼 LinkedIn | [techrushi](https://www.linkedin.com/in/techrushi/) |
+| 📍 Location | Pune, Maharashtra, India |
+
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=asad4230&color=2E9EF7&style=for-the-badge&label=Profile+Views)
+
+*"Architecture is not just about writing code — it's about designing systems that scale, teams that grow, and solutions that last."*
+
+</div>
