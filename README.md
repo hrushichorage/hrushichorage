@@ -108,7 +108,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=asad4230&color=2E9EF7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hrushichorage&color=2E9EF7&style=for-the-badge&label=Profile+Views)
 
 *"Architecture is not just about writing code — it's about designing systems that scale, teams that grow, and solutions that last."*
 
