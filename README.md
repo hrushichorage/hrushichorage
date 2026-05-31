@@ -21,7 +21,7 @@
 
 - 🏢 Currently **IT Software Architect & Technical Lead** at **CitiusTech Healthcare Pvt. Ltd.**, Pune, India
 - 👨💻 Leading and mentoring a team of **20+ engineers**
-- 🤖 Driving **AI/ML initiatives** — YOLO-based detection, LLM integration, AI call assistants
+- 🤖 Driving **AI/ML initiatives** — LLM integration, AI call assistants
 - 🏭 Domain expertise: **Telecom · Leasing & Finance · ERP · Retail · E-Commerce**
 - 🎓 **Microsoft Applied Skills** | Big Data Foundations | Hadoop Foundations
 
@@ -49,7 +49,6 @@
 ### Cloud & AI/ML
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools & Platforms
